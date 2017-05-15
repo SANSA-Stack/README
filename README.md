@@ -2,7 +2,7 @@
 The general description for SANSA-Stack, our license and knowledge wiki.
 
 ## LICENSE
-SANSA-Stack code is released under [GNU GPLv3 license](./LICENSE).
+SANSA-Stack code is released under [Apache 2.0 license](./LICENSE).
 
 ## Wiki
 The technical documentation, usage and examples of SANSA-Stack are collected on the [the Wiki pages](https://github.com/SANSA-Stack/README/wiki).
